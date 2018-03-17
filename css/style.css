@@ -1,0 +1,18 @@
+.table-bordered{
+  padding: 20px;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.text-primary{
+  text-decoration: underline;
+  font-family: cursive;
+}
+.article{
+  text-decoration: underline;
+  font-family: cursive;
+}
+.text-left{
+  text-align: left;
+  font-family: cursive;
+}
